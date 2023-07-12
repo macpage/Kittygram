@@ -1,7 +1,7 @@
 function Main(){
     console.log("hi")
     return  <div id="Main">
-        <h1>to tired</h1>
+        <h1>tomorrow i promise!</h1>
     </div>
 }
 
